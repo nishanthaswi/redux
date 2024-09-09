@@ -1,3 +1,4 @@
+hello
 ---
 id: getting-started
 title: Getting Started with Redux
